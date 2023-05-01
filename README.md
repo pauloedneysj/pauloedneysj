@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm a big fan of The Office series**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloedneysj&show_icons=true&locale=en" alt="pauloedneysj" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pauloedneysj&show_icons=true&locale=en" alt="pauloedneysj" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloedneysj&show_icons=true&locale=en&layout=compact" alt="pauloedneysj" /></p>
 
