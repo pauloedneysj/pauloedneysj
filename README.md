@@ -24,8 +24,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Manish57-droid/Manish57-droid/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/pauloedneysj/pauloedneysj/blob/output/github-contribution-grid-snake.gif)
 
 ###
