@@ -10,7 +10,6 @@
 - ⚡ Fun fact **I'm a big fan of The Office series**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloedneysj&layout=compact&theme=transparent)](https://github.com/pauloedneysj/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloedneysj&show_icons=true&theme=transparent)
 
 <h3 align="left">Languages and Tools:</h3>
