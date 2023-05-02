@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
+![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
+
 - 🌱 I’m currently learning about **Next.js and React Native**
 
 - 💬 Ask me about **React, Typescript and Node**
@@ -22,8 +24,6 @@
 <a href="https://linkedin.com/in/pauloedney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauloedney" height="30" width="40" /></a>
 <a href="https://instagram.com/_pauloedney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pauloedney" height="30" width="40" /></a>
 </p>
-
-![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloedneysj&label=Profile%20views&color=0e75b6&style=flat" alt="pauloedneysj" /> </p>
