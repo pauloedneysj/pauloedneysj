@@ -9,6 +9,13 @@
 
 - ⚡ Fun fact **I'm a big fan of The Office series**
 
+ <br />
+<div align="center"> 
+ <img height="150em" alt = "Paulo Edney Github Stats" src="https://github-readme-stats.vercel.app/api?username=pauloedneysj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloedneysj&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+<br />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloedneysj&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloedneysj&layout=compact&theme=transparent)](https://github.com/pauloedneysj/github-readme-stats)
 
