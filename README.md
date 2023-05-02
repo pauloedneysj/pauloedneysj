@@ -21,3 +21,5 @@
 <a href="https://linkedin.com/in/pauloedney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauloedney" height="30" width="40" /></a>
 <a href="https://instagram.com/_pauloedney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pauloedney" height="30" width="40" /></a>
 </p>
+
+![Snake animation](https://github.com/pauloedneysj/pauloedneysj/blob/output/github-contribution-grid-snake.svg)
