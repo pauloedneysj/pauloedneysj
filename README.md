@@ -26,5 +26,5 @@
 ![Snake animation](https://github.com/pauloedneysj/pauloedneysj/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=pauloedneysj&color=blueviolet&style=flat-square)
-   </div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloedneysj&label=Profile%20views&color=0e75b6&style=flat" alt="pauloedneysj" /> </p>
+</div>
