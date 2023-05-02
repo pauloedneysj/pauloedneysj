@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pauloedneysj/pauloedneysj/blob/output/github-contribution-grid-snake.svg)
 
 - 🌱 I’m currently learning about **Next.js and React Native**
 
