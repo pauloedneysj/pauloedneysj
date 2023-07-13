@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning about **Next.js and React Native**
-
-- 💬 Ask me about **React, Typescript and Node**
-
-- ⚡ Fun fact **I'm a big fan of The Office series**
-
  <br />
 <div align="center"> 
  <img height="150em" alt = "Paulo Edney Github Stats" src="https://github-readme-stats.vercel.app/api?username=pauloedneysj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
